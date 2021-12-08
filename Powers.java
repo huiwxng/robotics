@@ -7,5 +7,6 @@ public class Powers {
       i++;
       num = (int) Math.pow(2, i);
     }
+    // lol
   }
 }
